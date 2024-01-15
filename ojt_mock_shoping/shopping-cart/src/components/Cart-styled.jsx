@@ -88,3 +88,4 @@ export const ConfirmationPopup = styled.div`
 `;
 
 export { FiTrash2, FiPlus, FiMinus };
+
